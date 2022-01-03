@@ -8,5 +8,12 @@ text-align: center;
 background-color: teal;
 }
 .p2{
-    text-transform: lowercase;
+    background-color: gray;
+    margin: 30px 50px 20px 50px ;
+    border-radius: 2%;
+     border-bottom: 5px greenyellow ;
+     border-top: dashed deepskyblue;
+     border-style: dashed;
+     padding: 20px 30px 20px;
+     text-transform: lowercase;
 }
